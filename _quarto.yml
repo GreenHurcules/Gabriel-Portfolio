@@ -3,24 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "YOURNAME Data Analysis Portfolio"
+  title: "Gabriel Alvarez, M.A., M.S., M.P.A."
   navbar:
     left:
       - text: "About Me"
         file: aboutme.qmd
       - text: "Projects"
-        menu:
-          - text: "Starter Analysis Exercise"
-            file: starter-analysis-exercise/products/report/starter-analysis-report.qmd
-          - text: "R Coding Exercise"
-            file: coding-exercise/coding-exercise.qmd
-          - text: "Presentation Exercise"
-            file: presentation-exercise/presentation-exercise.qmd
-          - text: "Tidy Tuesday Exercise"
-            file: tidytuesday-exercise/tidytuesday-exercise.qmd
     right:
       - icon: github 
-        href: URL-TO-THIS-REPOSITORY-HERE        
+        href: https://github.com/GreenHurcules/Gabriel-Portfolio        
 
 format:
   html:
